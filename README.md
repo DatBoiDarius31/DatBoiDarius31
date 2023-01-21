@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DatBoiDarius31
 - 👀 I’m interested in ... Anime, Comp Sci, Building Desktops, and Sports.
-- 🌱 I’m currently learning ... Angular.
-- 💞️ I’m looking to collaborate on ... any beginnner level projects.
+- 🌱 I’m currently learning ... React and backe-end frameworks.
+- 💞️ I’m looking to collaborate on ... web development projects.
 - 📫 How to reach me ... smith.darius31fb@gmial.com.
 
 <!---
