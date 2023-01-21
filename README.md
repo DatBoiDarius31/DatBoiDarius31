@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DatBoiDarius31
+- 👋 Hi, I’m Darius Smith
 - 👀 I’m interested in ... Anime, Comp Sci, Building Desktops, and Sports.
 - 🌱 I’m currently learning ... React and backe-end frameworks.
 - 💞️ I’m looking to collaborate on ... web development projects.
