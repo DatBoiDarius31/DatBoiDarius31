@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DatBoiDarius31
-- 👀 I’m interested in ... Anime, Comp Sci, Building Desktops, adn Sports.
+- 👀 I’m interested in ... Anime, Comp Sci, Building Desktops, and Sports.
 - 🌱 I’m currently learning ... Angular.
 - 💞️ I’m looking to collaborate on ... any beginnner level projects.
 - 📫 How to reach me ... smith.darius31fb@gmial.com.
